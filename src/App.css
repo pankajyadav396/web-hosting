@@ -1,0 +1,22 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.right-0 {
+    right: 0;
+}
+
+.right-100 {
+    right: -100%;
+}
+
+
+@media (max-width:1024px) {
+    .overflow {
+        overflow: hidden;
+    }
+
+    .w-unset {
+        width: unset !important;
+    }
+}
