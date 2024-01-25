@@ -83,12 +83,12 @@ const Lemonwares = () => {
                                     <div className='flex flex-col sm:flex-row lg:flex-col justify-between sm:justify-around lg:justify-start'>
                                         <div>
                                             <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-bold gap-4 sm:gap-6'><span><RightIcon /></span>2GB SSD</p>
-                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>10GB Bandwidth</p>
-                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>15 Email Accounts</p>
+                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>100GB Bandwidth</p>
+                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>150 Email Accounts</p>
                                             <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>Unlimited Database</p>
-                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>4 Subdomains</p>
-                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>1 Parked Domain</p>
-                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>2 Websites</p>
+                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>18 Subdomains</p>
+                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>20 Parked Domain</p>
+                                            <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>12 Websites</p>
                                             <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px]'><span><RightIcon /></span>Free SSL</p>
                                             <p className='flex items-center text-[#808080] text-sm sm:text-base font-inter font-semibold gap-4 sm:gap-6 mt-[15px] mb-[12px]'><span><RightIcon /></span>Softaculous</p>
                                         </div>
